@@ -9,11 +9,16 @@ Die API-key für operrouteservice könnte gebraucht werden, aber wenn die Daten 
 
 ## Die Lösung:
 
+
 Ich habe die operroutservice API für die Distanz- und Dauermatrix benutzt. Die API habe ich auch für die Routeerstellung benutzt.
 Die Zahlen aufgerundet damit es keine Nachkommastellen gibt.
 
 Länge der Strecke: 3185 Km
+
 Zeit für die Reise: 32 Stunden und 41 Minuten
+
 Solution.csv beinhaltet die Rheinfolge der MSG Stellen.
+0 -> 11 -> 15 -> 18 -> 19 -> 3 -> 20 -> 7 -> 12 -> 5 -> 6 -> 14 -> 13 -> 17 -> 9 -> 10 -> 2 -> 1 -> 8 -> 4 -> 16 -> 0
+
 ![image of the route](https://github.com/ngalanin/TSP_MSG_Challenge/blob/master/Route.png?raw=true)
 
