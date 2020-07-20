@@ -21,5 +21,10 @@ Solution.csv beinhaltet die Rheinfolge der MSG Stellen.
 
 0 -> 11 -> 15 -> 18 -> 19 -> 3 -> 20 -> 7 -> 12 -> 5 -> 6 -> 14 -> 13 -> 17 -> 9 -> 10 -> 2 -> 1 -> 8 -> 4 -> 16 -> 0
 
+Ismaning/München (Hauptsitz)->Ingolstadt->Nürnberg->St. Georgen->Stuttgart->Bretten->Walldorf->Frankfurt->Köln/Hürth->Düsseldorf->Essen->Münster->Lingen (Ems)->	Schortens/Wilhelmshaven->Hamburg->Hannover->Braunschweig->Berlin->Görlitz->Chemnitz->Passau->Ismaning/München (Hauptsitz)
+
+Die interaktive Code könnte unter dem Link eingesehen werden:
+![Code](https://nbviewer.jupyter.org/github/ngalanin/TSP_MSG_Challenge/blob/master/MSG%20Tour.ipynb)
+
 ![image of the route](https://github.com/ngalanin/TSP_MSG_Challenge/blob/master/Route.png?raw=true)
 
